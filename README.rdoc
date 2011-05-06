@@ -1,0 +1,1 @@
+../rubygolf/README.rdoc
