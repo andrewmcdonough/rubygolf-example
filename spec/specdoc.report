@@ -1,9 +1,0 @@
-
-Golf.hole1
-- should double all the numbers in an array
-- should be [10,4,20,12] for [5,2,10,6]
-- should be [10,4,20,12] for [5,2,10,6]
-
-Finished in 0.020604 seconds
-
-3 examples, 0 failures
